@@ -10,7 +10,14 @@
 Since the interested stock of Steve parents performed low he wants to calculate the total daily volume of each ticker and the return.
 Using the refractoring the entire stock is tracked over the years.
 
-
+### Results from each ticker 2017:
+![Stock_results_2017.png](https://github.com/klkanchi/Week2_Challenge/blob/main/Resources/Stock_results_2017.png)
+### Runtime for 2017:
+![VBA_Challenge_2017.png](https://github.com/klkanchi/Week2_Challenge/blob/main/Resources/VBA_Challenge_2017.png)
+### Results from each ticker 2018:
+![Stock_results_2018.png](https://github.com/klkanchi/Week2_Challenge/blob/main/Resources/Stock_results_2018.png)
+### Runtime for 2018:
+![VBA_Challenge_2018.png](https://github.com/klkanchi/Week2_Challenge/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary:
 
@@ -38,6 +45,6 @@ Cons its hard to understand from some ones else perspective when it came to unde
 
 
 
-![Theater_Outcomes_vs_Launch.png](https://github.com/klkanchi/week1Challenge/blob/main/Theater_Outcomes_vs_Launch.png)
+
 
 
